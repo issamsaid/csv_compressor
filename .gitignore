@@ -1,0 +1,73 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Cmake files
+build/
+build/*
+*/build/
+*/build/*
+
+# The binary dirs
+bin/
+*/bin/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+# Doc files
+doc/html
+doc/doxygen.stamp
+
+# Release scripts
+release.sh
+tag.sh
+
+# Data files
+*.csv
+*.pdf
+
+# Utilities
+utilities
+
